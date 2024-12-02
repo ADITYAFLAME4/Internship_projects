@@ -56,10 +56,10 @@ _Work Done @Task4_
 
 To develop a snake game:
 
-Created a program where the player controls a snake that moves around the screen. Initially, the snake starts with a single segment and grows in length each time it eats food randomly placed on the screen. The player uses arrow keys to navigate the snake. The game ends if the snake collides with itself or the boundaries of the screen. Also exported the program into exicutable so that anyone can play the game on the go.
+Created a program where the player controls a snake that moves around the screen. Initially, the snake starts with a single segment and grows in length each time it eats food randomly placed on the screen. The player uses arrow keys to navigate the snake. The game ends if the snake collides with itself or the boundaries of the screen. Also exported the program into executable so that anyone can play the game on the go.
 At the end while the game is over it will show high score along with the current score.
 I have came to know that how to use awt and swing in java which I had previously no knowledge on!
-Note: The highscore is random, it cannont hold previous highest value.
+Note: The highscore is random, it cannot hold previous highest value.
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
